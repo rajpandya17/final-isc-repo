@@ -10,9 +10,9 @@
       },
       "platforms": [
         {
-          "name": "EVK-ISC-nRF52832-A",
+          "name": "EVK-ISC-nRF52832-B",
           "architecture": "nrf52",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "Contributed",
           "url": "https://rajpandya17.github.io/final-isc-repo/ISC-Devkit-1.0.0.tar.gz",
           "archiveFileName": "ISC-Devkit-1.0.0.tar.gz",
